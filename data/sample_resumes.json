@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Alex Chen",
+        "current_role": "Recent Graduate",
+        "experience_years": 0,
+        "education": "B.S. Computer Science",
+        "skills": "Python, JavaScript, HTML, CSS, Git, basic SQL, data structures, algorithms",
+        "projects": "Built a personal portfolio website using HTML/CSS/JavaScript. Created a Python script for data analysis. Contributed to open source projects on GitHub.",
+        "target_role": "Software Engineer"
+    },
+    {
+        "name": "Sarah Johnson",
+        "current_role": "Data Analyst",
+        "experience_years": 2,
+        "education": "B.S. Statistics",
+        "skills": "Python, SQL, Excel, Tableau, data analysis, statistics, R, basic machine learning",
+        "projects": "Analyzed customer behavior data for retail company. Created dashboards for business metrics. Built predictive models for sales forecasting.",
+        "target_role": "Data Scientist"
+    },
+    {
+        "name": "Mike Rodriguez",
+        "current_role": "Junior Developer",
+        "experience_years": 1,
+        "education": "B.S. Information Technology",
+        "skills": "JavaScript, React, HTML, CSS, Git, Node.js, basic AWS, responsive design",
+        "projects": "Developed responsive web applications using React. Created REST APIs with Node.js. Deployed applications to AWS EC2.",
+        "target_role": "Frontend Developer"
+    },
+    {
+        "name": "Emily Zhang",
+        "current_role": "System Administrator",
+        "experience_years": 3,
+        "education": "B.S. Computer Engineering",
+        "skills": "Linux, networking, shell scripting, basic Python, AWS, monitoring, troubleshooting",
+        "projects": "Managed Linux servers for enterprise environment. Automated deployment scripts. Set up monitoring and alerting systems.",
+        "target_role": "Cloud Engineer"
+    },
+    {
+        "name": "David Kim",
+        "current_role": "Web Developer",
+        "experience_years": 2,
+        "education": "B.S. Web Development",
+        "skills": "Python, JavaScript, React, Node.js, SQL, Git, AWS, Docker basics",
+        "projects": "Full-stack web applications using MERN stack. Database design and optimization. Cloud deployment on AWS.",
+        "target_role": "Full Stack Developer"
+    },
+    {
+        "name": "Lisa Thompson",
+        "current_role": "Career Switcher",
+        "experience_years": 0,
+        "education": "B.A. Business Administration",
+        "skills": "Python (beginner), SQL (basic), Excel, project management, communication",
+        "projects": "Completed online Python course. Built small data analysis projects. Learning web development fundamentals.",
+        "target_role": "Data Scientist"
+    },
+    {
+        "name": "James Wilson",
+        "current_role": "IT Support",
+        "experience_years": 4,
+        "education": "A.S. Computer Science",
+        "skills": "Windows, Linux basics, networking, troubleshooting, Python scripts, customer service",
+        "projects": "Automated IT support tasks with Python scripts. Set up small office networks. Technical documentation.",
+        "target_role": "DevOps Engineer"
+    },
+    {
+        "name": "Maria Garcia",
+        "current_role": "Marketing Analyst",
+        "experience_years": 3,
+        "education": "B.S. Marketing",
+        "skills": "SQL, Python (intermediate), data analysis, Excel, Tableau, Google Analytics",
+        "projects": "Marketing campaign analysis. Customer segmentation models. A/B testing and optimization.",
+        "target_role": "Data Engineer"
+    }
+]
