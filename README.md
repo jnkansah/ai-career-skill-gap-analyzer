@@ -7,8 +7,6 @@ Basically, you paste your resume, pick your dream job, and the app tells you:
 - Exactly which courses to take to fill those gaps
 - Interview questions you'll probably face
 
-It's like having a career coach that actually knows what tech companies are looking for right now.
-
 ## What It Actually Does
 
 - **Gap Analysis**: Compares your skills against real job postings to show exactly what you're missing
@@ -18,9 +16,10 @@ It's like having a career coach that actually knows what tech companies are look
 - **AI Magic**: Uses NLP to parse your resume and figure out what you know
 
 ## About Me
-**Name:** Jaydan Kansah  
+**Name:** Jayda-Louise Nkansah  
 **Project:** Skill-Bridge Career Navigator  
-**Time Spent:** About 5 hours (way more caffeine than I care to admit)
+**Time Spent:** About 5 hours
+**Demo Video:** https://youtu.be/ZrEPpg5Yaj4
 
 ## Quick Start:
 
@@ -61,7 +60,7 @@ pytest tests/ --cov=app
 pytest tests/test_analyzer.py
 ```
 
-## AI Stuff (Be Honest!)
+## AI Stuff
 
 ### Did I use AI helpers? (Yes/No)
 Yes. I used ChatGPT throughout this project for debugging help as well as explanations when stuck. It helped with the frontend design as well, especially with the CSS and HTML structure.
