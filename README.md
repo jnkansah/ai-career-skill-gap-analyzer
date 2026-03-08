@@ -7,13 +7,13 @@ Basically, you paste your resume, pick your dream job, and the app tells you:
 - Exactly which courses to take to fill those gaps
 - Interview questions you'll probably face
 
-## What It Actually Does
+## What It Does
 
 - **Gap Analysis**: Compares your skills against real job postings to show exactly what you're missing
 - **Learning Roadmap**: Gives you specific courses (free and paid) to fill those gaps, with time estimates
 - **Interview Questions**: Generates practice questions based on your skills and target role
 - **Clean Interface**: Actually looks good and works on your phone
-- **AI Magic**: Uses NLP to parse your resume and figure out what you know
+- **AI**: Uses NLP to parse your resume and figure out what you know
 
 ## About Me
 **Name:** Jayda-Louise Nkansah  
